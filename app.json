@@ -1,15 +1,15 @@
 {
-      "name": "Fallen Robot",
-      "description": "Telegram Group Management Bot.",
-      "logo": "https://telegra.ph/file/72e135da30a1a349f2844.jpg",
+      "name": "Dark Robot",
+      "description": " Powerfull Telegram Group Management Bot.",
+      "logo": "https://te.legra.ph/file/ca0987b54001071f30198.jpg",
       "keywords": [
          "telegram",
          "sexy",
          "group",
          "manager",
-         "Fallen"
+         "Dark"
       ],   
-   "repository": "https://github.com/AnonymousBoy1025/FallenRobot",
+   "repository": "https://github.com/DarkXAdi/DarkRobot",
    "addons": [
       {
          "options": {
