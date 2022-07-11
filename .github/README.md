@@ -50,6 +50,8 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [🇩ᴀʀᴋ ✘ �
 <p align="center">
 <a href="https://telegram.me/DILLI_SE_HU_BHENCHOD"><img src="https://img.shields.io/badge/%20NoobAdi-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
+<p align="center">
+<a href="https://telegram.me/@LUC1FER_XD"><img src="https://img.shields.io/badge/%20PG-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 ━━━━━━━━━━━━━━━━━━━━
 
